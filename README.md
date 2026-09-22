@@ -7,6 +7,8 @@ generation, notes, hints, undo, and best-time tracking.
 
 ```bash
 pip install pygame
+```
+```bash
 python GUI_enhanced.py
 ```
 
