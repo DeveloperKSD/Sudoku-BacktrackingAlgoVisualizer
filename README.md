@@ -31,6 +31,17 @@ next to the script once you finish a puzzle.
 | `H` | Hint — reveal the correct value for the selected cell |
 | Mouse click | Select a cell |
 
+
+
+## IMAGES
+<img width="536" height="678" alt="image" src="https://github.com/user-attachments/assets/1dffbdce-eec9-49dc-ae5b-0e065365b0fa" />
+<img width="530" height="672" alt="image" src="https://github.com/user-attachments/assets/717805ad-a479-47fa-a133-2241406d2287" />
+<img width="532" height="673" alt="image" src="https://github.com/user-attachments/assets/0fe83fb3-031f-4120-91d5-9e1a8aea5cb9" />
+
+
+
+
+
 ## Basic Flow
 
 1. **Menu** — `choose_difficulty()` blocks on a key event loop until the
